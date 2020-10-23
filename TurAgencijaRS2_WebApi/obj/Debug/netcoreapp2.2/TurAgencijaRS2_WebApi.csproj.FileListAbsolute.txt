@@ -1,0 +1,17 @@
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.deps.json
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.runtimeconfig.json
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.runtimeconfig.dev.json
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.dll
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.pdb
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_Model.dll
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\bin\Debug\netcoreapp2.2\TurAgencijaRS2_Model.pdb
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.csprojAssemblyReference.cache
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.RazorAssemblyInfo.cache
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.RazorAssemblyInfo.cs
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.AssemblyInfoInputs.cache
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.AssemblyInfo.cs
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.csproj.CopyComplete
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.dll
+C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Debug\netcoreapp2.2\TurAgencijaRS2_WebApi.pdb

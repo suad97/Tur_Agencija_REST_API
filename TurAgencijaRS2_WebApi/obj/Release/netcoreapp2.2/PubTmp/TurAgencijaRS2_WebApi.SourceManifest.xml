@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Release\netcoreapp2.2\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Faruk\source\repos\TurAgencijaRS2\TurAgencijaRS2_WebApi\obj\Release\netcoreapp2.2\PubTmp\EFSQLScripts\TurAgencijaRS2_WebApi.Database.TuristickaAgencija_RS2Context.sql" />
+</sitemanifest>

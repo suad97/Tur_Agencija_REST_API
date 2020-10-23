@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TurAgencijaRS2WebApi2019" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Faruk\\source\\repos\\TurAgencijaRS2\\TurAgencijaRS2_WebApi\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="TurAgencijaRS2_WebApi.Database.TuristickaAgencija_RS2Context" description="" value="Data Source=tcp:turagencijars2webapidbserver.database.windows.net,1433;Initial Catalog=TurAgencijaRS2WebApi2019_db;User Id=faruk@turagencijars2webapidbserver;Password=tamovamo96#" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Faruk\\source\\repos\\TurAgencijaRS2\\TurAgencijaRS2_WebApi\\obj\\Release\\netcoreapp2\.2\\PubTmp\\EFSQLScripts\\TurAgencijaRS2_WebApi\.Database\.TuristickaAgencija_RS2Context\.sql$" />
+  </parameter>
+</parameters>

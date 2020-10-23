@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAf8jWDvir7EGd3iIPQwlySQAAAAACAAAAAAAQZgAAAAEAACAAAAC4MM1kKvvX7kGzh1BX2p2BmgEWCPocrx8N9bel+sptQwAAAAAOgAAAAAIAACAAAACNOxZD0clLWtEurL+/UHCnXYqtfMpNKd8k5OZgeOf/v4AAAAA4wEWeckvb+vZ3IpGrZIgSweGTqnyN5wYrLVDKbD+m0/Nwr6tWxoZg8C8q/a5ZV+H/Q5xLVD2Prf3gBOg2Z/L8sik7INpGucoHvIy3jdAZC/wLztAo8og6r3cPD4oYP0L/mGJ+bAxqqbQBxYRqYDsTyvKVPHpkJcc2zFxhK+ifAEAAAACvoet0IngoPG5bV8FtQKwQTKM1h9FSaNyjdtq0r5BODw8Fd9dQ926xGsSE7Phddkes2Xc9JKjUerF5Gmdjb/4k</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="TurAgencijaRS2_WebApi.Database.TuristickaAgencija_RS2Context">
+      <Value>Data Source=tcp:turagencijars2webapidbserver.database.windows.net,1433%3bInitial Catalog=TurAgencijaRS2WebApi2019_db%3bUser Id=faruk%40turagencijars2webapidbserver%3bPassword=tamovamo96#</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
